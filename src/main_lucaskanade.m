@@ -3,7 +3,6 @@
 % Calcula el optical flow entre 2 imagenes con el metodo de Lucas-Kanade
 % visto en clase
 
-
 %% Hacer un clear si necesidad
 clear all;
 tic
