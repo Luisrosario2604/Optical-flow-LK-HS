@@ -49,6 +49,10 @@ Just run ```main_lucaskanade.m``` or ```main_horn_schunk.m``` in matlab
     │    └── *.jpg
     ├── docs
     │    └── explanations_esp.pdf
+    ├── imgs
+    │    ├── Ex_1.png
+    │    ├── Ex_2.png
+    │    └── Ex_3.png
     ├── README.md
     └── src
         ├── choose_image.m
