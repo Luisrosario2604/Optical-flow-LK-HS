@@ -11,7 +11,7 @@ Optical flow using Lucas Kanade and Horn & Schunck methods
 
 ## Requirements
 
-* Matlab
+- Matlab
 
 ###### More explanations in ```docs/explanations_esp.pdf``` (only in spanish)
 
